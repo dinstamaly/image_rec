@@ -14,7 +14,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 Mako==1.1.4
 MarkupSafe==2.0.1
-numpy==1.21.0
+numpy
 opencv-python==4.5.2.54
 Pillow==8.2.0
 psycopg2==2.9.1
